@@ -2,7 +2,7 @@ http:
   listner:
     host: "localhost"
     port: "9081"
-    path: "/travelontipcall/{serviceType}"
+    path: "/fastGocall/{serviceType}"
     
 db:
   oracle:
